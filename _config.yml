@@ -1,15 +1,15 @@
 # Site settings
-title: Nice Woong
+title: nicewoong
 header-img: img/home-bg.jpg
 email: thoughtscode@gmail.com
 copyright_name: nicewoong_blog
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "welcome to nicewoong blog!"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+twitter_username: 
+github_username:  nicewoong
+facebook_username:  nicewoong
+email_username:  thoughtscode@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
