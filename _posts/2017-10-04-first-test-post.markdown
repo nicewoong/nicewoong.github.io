@@ -4,6 +4,7 @@ title:      "First Test Post"
 subtitle:   "first test post. "
 date:       2017-10-01 12:00:00
 author:     "nicewoong"
+categories: [thoughts]
 ---
 
 #Hello
