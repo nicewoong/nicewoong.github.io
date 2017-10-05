@@ -10,4 +10,6 @@ Here I am writing posts about sw development and personal experiences and though
 
 It would be really nice if you visit nicewoong blog(this project).  
 
+Here is the link below. 
+
 [nicewoong blog](https://nicewoong.github.io "go to the blog").
