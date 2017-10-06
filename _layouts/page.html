@@ -33,15 +33,13 @@ layout: default
             <!-- category list-->
             <h3>Categories</h3>
                 {% for category in site.categories %}
-                    {% if (category[0] == 'thoughts') || (category[0] == 'development') %}
+                    {% if (category[0] == 'thoughts') or (category[0] == 'development') %} <!-- thoughts, development만 표시하겠음 -->
                         <a href="/category/{{ category[0] }}/" style="text-decoration: none;">
                             <!--{% if category[0] == 'aws' %}-->
                             <!--    {{ category[0] | upcase }}-->
                             <!--{% else %}-->
-                            
                                 {{ category[0] | capitalize }}
                             <!--{% endif %}-->
-                            
                         </a><br />
                     {% endif %}
                 {% endfor %}
@@ -62,4 +60,5 @@ layout: default
 
 
 <!---->
-<!---->
+<!--To get a localhost test on Cloud9 -->
+<!--  jekyll serve --host $IP --port $PORT --baseurl ''   -->
