@@ -37,6 +37,7 @@ layout: default
                         <!--{% if category[0] == 'aws' %}-->
                         <!--    {{ category[0] | upcase }}-->
                         <!--{% else %}-->
+                        {% if category[0] == 'thoughts' || category[0] == 'development' %}
                             {{ category[0] | capitalize }}
                         <!--{% endif %}-->
                         
