@@ -1,0 +1,89 @@
+---
+layout:     post
+title:      "[장고걸스 대구] 코치 오티"
+subtitle:   "[Django Girls Daegu] Coach Orientation" 
+date:       2017-08-06 12:00:00
+categories: [thoughts, experience]
+author:     "nicewoong"
+tags:       [Djangogirls, Daegu, Coach, Community]
+---
+
+### Django Girls Daegu (장고걸스 대구)에 Cauch로 합류하다.  
+
+
+  
+   
+   
+![djangogirls](https://lh3.googleusercontent.com/lLNmUageTdu1iF87Y4RTkIpz2bra5SRvIaAV_QC77mlCaBbg4Yv4V8roNty3bp2Rp6oWzIMk3HLWke2r24dgN6o65JW6aSKpfD03CaE_Wn7IZO8JyNW0WHjOajnXmJ_8W85adqKAW_aAVk90CDHQGLgV4bakl3WNLtSP_qKHHVAg96CofeI1cm65w8IVqN_WARUS0BYzRFR9o7iSHBbRF1N9_lAGqXElCBpE8zZ2YNRz7Eaf9uzomfSkpsyJiK87nk9tcaf2yP8DmRGqt87Ckh8CDZGc7IayHBbJqD88vh4x0xp_tDIuIvmEbOCSChGAQXgb-neDCX9ZR-oz9sEPg4P6tLdFuEPdqR5V8kw7ujgcDB4MD_PEulcJPTxMXRy1dW4knOd9TXcvIF34xJz_Qj21Xap2yhaRtJX6ayW9xS60CICA9muUrkD1XFA-ZoQtpIntNY6aNzeODT_UZe2ZzAnDtB0z3TloUpP4ZMLLoYVUMQKJy3bxKKOb4frEIEEycPAOmDE_uz2Gw02ajS3wVg5wFxUWxC3bonr-MmWEjl93vjxKo7zdXm1u0PyHc9y-9ZMBgrNs2I8GHxLt0G2rk9bEzgNBHUo4xA=w400-h400-no)
+
+
+
+
+  서울에서 지내면서 왜 대구같은 지역에서는 이런 커뮤니티가 없을까 하는 생각을 많이 했다. 
+개발 관련 커뮤니티뿐 아니라 스타트업 관련 등 모든 분야에 대해서 커뮤니티 및 행사 등이 굉장히 활성화되어 있음을 접했다. 
+관심 있는 분야에 대해서 비슷한 사람들이 모여 활발하게 이야기하고 정보교환을 하다 보니 행사장에서 그 열기가 엄청 뜨겁더라. 
+
+
+  대구에도 분명 컴퓨터를 전공하거나 컴퓨터에 관심이 많은 학생들, 
+  그리고 그 많은 회사에 있는 현업 개발자분들이 곳곳에 숨어있을 텐데. 그런 사람들이 모여서 커뮤니티를 형성하고 정보를 교환하다 보면 서로가 많이 성장할 수 있을 텐데.  아쉬움이 컸다. 
+
+
+![장고걸스](https://lh3.googleusercontent.com/4qtrsU69EZB7k6Kn_vQzT9cKivIenGAGRjJKRPyuPMLt7g7_5PCIOSl4C_CW8NT7bk-s4y_YUFGnU7pQ7BSH_8W8DLzvQ6VtuUxwXW0zULRB9aPpSj1ng867jejjoVrMorZUy3_X37L7kVcEFpZPqMrHFAqpeWBiaQV5aqmQgdTqaBxzes9dFgErfhachCqMJA3S4ndY02G6Mcj3Wmd1bI3paofLigYSLBT19qF9b9JhrX1UgV-UBg_rOBkGisZB99ChY07S_rdQ03CpJSar4uB94JHnCRGj0AD85rQXdcQXTJ79Hga4aAd0Kpxss0crlLaYiPuTJ1XlSxDSuessZKvqwSD80-W-n_AHdEsIA4fcvgzKA6im18dZoxukj4-GU59HULoVTqRuk9kJ8URHCJEKOaIPKw31lN5Pmh-8hQHItJvMfnuxMz4tycnjM823uqVDuECqxA1QAZWg0vZrT98RUeuCyjz-v3v7EoZp6M_fYVz63XXnJRmpLq77xyGlz0GBggjckwiAsy6qP9fsomlcGdjHjnMB72lYNrDfpULTftTfMxvq_wdhv-3olwiT8WSj9dTiyqEbKLc1pVtG8j6BQWYdYyhNNw=s400-no)
+  
+  
+  
+  
+
+
+
+### 장고걸스도 그때 알았다. 
+ 
+"장고걸스 서울" 행사 홍보를 몇 번 접할 수 있었다. 코치나 운영진으로 참여하면 되게 재밌겠다는 생각을 한 적이 있다.  코딩 교육에 관심이 있다 보니 눈길이 갔다. 
+
+  그런데 며칠 전 오랜만에 학교 홈페에지에 접속했는데 "장고걸스 대구"를 새로이 시작한다고 코치를 모집한다는 글을 보게 됐다. (타이밍굿1)
+1) 지역 커뮤니티 활성화
+2) 코딩 교육 
+  이 두 가지 주제에 관심이 있는 나는 또 그게 장고걸스라는 게 너무 반가워 고민도 안 하고 코치로 신청했다. 
+
+
+
+
+
+![대구 콘텐츠코리아랩 10층 세미나실](https://lh3.googleusercontent.com/w93t4ObFEwJP3Vz4L-1LEGm217A2ZS-fNFhqpf24a_z9SbilGGtnSw__xVnA5ZpiV67Qm-H1Hur0R-_3nEapo_GlbieUwo0fE6NGKZS2dqhfRcjn2c_fI_mpAGnPLbv5XdAKzefPWWmkQB6Sv_HSiDDggzy7EEmui5b7__0-bQ0G9alWS24iD8qlifdqNhoL03CtwdrHCc4t30dANH8UHiEhnJzAWNIocDVyuNn1xsu8McwOVx3KUjP6hxJHEtP5oDu-W4Ablz5SpOe4jBCa5oyjKHz9-hFAfVLflVmtXJsrbFI04mehb5XCqOtUOXMpQ78CO-wWtI19YwSQbbwc17A5RwH0_5CkBk_lLLgO4QI6rqJQujl7I5tuuoRbGPWoXHy-tZTqB53_ZT3oijKqVQ4gULl1lndgO3l9ad9NBttE17oW_sCfT4sROSVai7dyGjCEGDg-GaOxQsbpOFJoa2XUDFtgCJ7R9ZrY9c11LUaaPo7lVQ0VVBJ0QL2bNWaoCipHKXLLGgHqQ3mlwTtkVmL6uuEYq0xzTDcIezmBhCOdZF1b0pGWzhVcn4nYVLQMnbNXN3GxbBHkWFvJb_96F68AELkcgSI59w=s400-no)
+
+
+
+
+### 그리고 오늘 오후 두 시 장고걸스 대구 코치 오리엔테이션에 참가했다. 
+
+
+날씨가 엄청X1000 더워서 더위도 피할 겸 노트북 하려고 일찍 나섰다. 두 시간을 일찍 갔는데 운영진 한두 분씩 먼저 오신다. 코치로 지원했지만 운영진에도 관심이 있다고 했더니 여러 가지 이야기를 미리 들을 수 있었고 결국 운영진에 합류하기로 했다.  (타이밍굿2)
+
+  
+  스타트 업계에 있는 분도 계시고, 현업 개발자, 전공은 아니지만 프로그래밍을 하는 학생, 개발자랑 거리가 먼 분 등 엄청 훌륭한 분들이 모였다. 대구지역에서 커뮤니티 형성에 대해 나와 비슷한 뜻을 갖고 계셔서 너무 반가웠다. 그리고 이렇게 적극적인 분들이 존재한다는 것에 놀랐다. 장고걸스의 비영리 활동 그 자체에도 관심이 있었지만 코치나 운영진에 참여하게 될 훌륭한 분들과 커뮤니티를 형성하는 것을 많이 기대했다.  기대한 것보다 더 좋은 기회다. 
+
+
+
+![sponsor 가 되어주세요](https://lh3.googleusercontent.com/c4pwQgJPXZZ9dlcxIRgA9A2X4-p0-wNcH4d8OR9EhK8PPtMZ4R0J9dSnHMFXP2Vhzh4bEikYEbNdUkyu-ZGNMB-EIiopMPvBxoVdDFVtHFtl82Q-qwg2rpjcv0yfrVXCR9dRJVhnPPv961GNfbfRr0BIcZaDuqMPt1ze2RO7lZymEHD8Ok--mRhH7gBtnhTHVhLwnPDw28sxFAxV98VsYfn8-2TdYobpyh_vsCI16Xxk9zsIsJ6h0kIKkzKAkKWKKNJtKabsx7qzDElr4SkPDjwEUv5BmA0pSnOknnHp4jUtLAKa6MUSUA2ctM0vFuf_faBzBTsPFuSu51tQc1kMe8WgZ0SoBB8uCYt7qkQfCTNukgp2IY-REvdBDCUuuRESOo7vj9EZhvO38gyIbYaYmrSt1V355Y9NX3F4TQ6Lcz6PES-KzhhUTXqLe1o8tUdE3zkypseXqkNyu7xq2v_clX3R2kg7aLv296EyRTA24vs145mXB6_KPpOSdXSHc45RBc5ru7nZO48bFD1fuplRHXVkk7zzNgX4UzcjWF8OKIZuPUyXPIAY4lX9EWgla_BgwB48lRqc3EUM2_QblBwQ6BN2OPnc2_4A6Q=s200-no)
+
+
+
+  비영리단체인 만큼 우리가 할 일은 참가자들에게 원활한 교육기부를 제공하기 위해 다양한 형태의 지원을 얻어야 한다. 다양한 분야에서 스폰서를 섭외해야 하는 것! 우리에게 도움을 주거나 우리 활동이 또 도움이 될 수 있는 많은 기업 및 단체와 컨택이 될 수 있도록 노력해보겠습니다. 그리고 장고걸스의 메인 워크숍을 통해서 프로그래밍이나 기술을 멀게만 느꼈던 여성들이 프로그래밍이 해볼 만한 것이라고 여길 수 있도록 하고 싶다. 
+
+
+### 장고걸스 대구를 계기로 장고걸스 메인 워크숍은 물론 밋업행사 및 해커톤 등 다양한 행사가 지속적으로 개최되었으면 좋겠다.
+
+
+그리고 그를 통해서 대구지역에도 충분히 활발한 커뮤니티가 형성될 수 있다는 것을 보여주게 됐으면 하고 희망해본다. 대구 지역 곳곳에 숨어있는 개발자나 관련 분야에 관심 있는 분들이 많은 교류를 할 수 있는 촉발제가 되길 바란다. 선뜻 혼자 행동하지 못했는데, 비슷한 생각을 가진 훌륭한 분들과 함께 이번 장고걸스 대구를 그 시작의 기회로 삼을 수 있을 것 같다.
+
+
+
+![ice cream](https://lh3.googleusercontent.com/7t4lZAhQgWTNyd53IWUSWKeZ-N-iyRf61j04W8cZQZBKxYkZThkMkDWwLHAASnP8GhA6sIghIv870FukJoWpg_qzW0t_PmesTckSxckiyNFiSxaTbRy8XHh00DaIFZPgHBM2TgPVokeYoDXY5dBvmdP7E3oMVWI_akXVbbjoWu0OIlhFOAT810KCHsGZUxiyL9Zn42yb-v50KnyHQLbGjyI7qLZT_jdpnLiFBQGiRMh8GKZC50vgXb5VQ79TsGhrAIjtZvnRGkb9sIAYH8CIint7Apt4eemDDym9kYA8NA-YtxCp9m9Fmnd37QDIEEimrurfFCsZJtDXp-0FzjleYwgXhyKwL86mSelv3iaEwPGylhmc6ntWEcSksXMO1uTBjz-R6Gr1i1n4K0efivyn_9l5We7aAm2q49JOKsEt3MSzxC7ShgpXxIsIv9Hvb9B0gNaXmiuBYvZIokMQgFDsLkODeSLtkCzlovKNi8W6UUoUeR8KYY9LfU8VR-FzH6qTuAzEcuUssjIigQrm4c65mNiBcugtxP_xodIP_ZYrLccB04BN_9SVEce5pBvrhs5e1r1lAO-Ei_TYge3uh882JswKZAJe1rAV2w=s300-no)
+동대구역 신세계백화점 젤라또 :)  
+
+
+  그리고 가는 길에 어엄청 더워서 동대구역 신세계백화점 푸드코트에 들러서 아이스크림 GETㅎ 했따. 아이스크림 없는 여름은 상상할 수 없군.  
+
+ 
+  그리고 자기표현의 중요성을 또 한 번 실감했다. 오늘 자기소개할 때 당연히 코딩교육에 관심이 있다는 이야기를 함께 했다. 그랬더니 집 가는 길에 다른 운영진께서 아는 분이 대구에서 코딩 교육 사업을 진행하려 한다는 이야기를 들려주셨고, 소개해주겠다 하셨다. 세상에... 새로운 기회 발견! (타이밍굿3)
+
