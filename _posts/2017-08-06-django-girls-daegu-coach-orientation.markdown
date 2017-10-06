@@ -16,7 +16,7 @@ tags:       [Djangogirls, Daegu, Coach, Community]
   
    
    
-![djangogirls](https://lh3.googleusercontent.com/lLNmUageTdu1iF87Y4RTkIpz2bra5SRvIaAV_QC77mlCaBbg4Yv4V8roNty3bp2Rp6oWzIMk3HLWke2r24dgN6o65JW6aSKpfD03CaE_Wn7IZO8JyNW0WHjOajnXmJ_8W85adqKAW_aAVk90CDHQGLgV4bakl3WNLtSP_qKHHVAg96CofeI1cm65w8IVqN_WARUS0BYzRFR9o7iSHBbRF1N9_lAGqXElCBpE8zZ2YNRz7Eaf9uzomfSkpsyJiK87nk9tcaf2yP8DmRGqt87Ckh8CDZGc7IayHBbJqD88vh4x0xp_tDIuIvmEbOCSChGAQXgb-neDCX9ZR-oz9sEPg4P6tLdFuEPdqR5V8kw7ujgcDB4MD_PEulcJPTxMXRy1dW4knOd9TXcvIF34xJz_Qj21Xap2yhaRtJX6ayW9xS60CICA9muUrkD1XFA-ZoQtpIntNY6aNzeODT_UZe2ZzAnDtB0z3TloUpP4ZMLLoYVUMQKJy3bxKKOb4frEIEEycPAOmDE_uz2Gw02ajS3wVg5wFxUWxC3bonr-MmWEjl93vjxKo7zdXm1u0PyHc9y-9ZMBgrNs2I8GHxLt0G2rk9bEzgNBHUo4xA=w400-h400-no)
+![djangogirls](https://drive.google.com/uc?id=0B_ES6MU5AwlXOEN0cVlidUh2THc)
 <br>
 
 
