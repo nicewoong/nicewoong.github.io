@@ -30,7 +30,7 @@ tags:       [Djangogirls, Daegu, Coach, Community]
   그리고 그 많은 회사에 있는 현업 개발자분들이 곳곳에 숨어있을 텐데. 그런 사람들이 모여서 커뮤니티를 형성하고 정보를 교환하다 보면 서로가 많이 성장할 수 있을 텐데.  아쉬움이 컸다. 
 
 <br>
-![장고걸스](https://lh3.googleusercontent.com/4qtrsU69EZB7k6Kn_vQzT9cKivIenGAGRjJKRPyuPMLt7g7_5PCIOSl4C_CW8NT7bk-s4y_YUFGnU7pQ7BSH_8W8DLzvQ6VtuUxwXW0zULRB9aPpSj1ng867jejjoVrMorZUy3_X37L7kVcEFpZPqMrHFAqpeWBiaQV5aqmQgdTqaBxzes9dFgErfhachCqMJA3S4ndY02G6Mcj3Wmd1bI3paofLigYSLBT19qF9b9JhrX1UgV-UBg_rOBkGisZB99ChY07S_rdQ03CpJSar4uB94JHnCRGj0AD85rQXdcQXTJ79Hga4aAd0Kpxss0crlLaYiPuTJ1XlSxDSuessZKvqwSD80-W-n_AHdEsIA4fcvgzKA6im18dZoxukj4-GU59HULoVTqRuk9kJ8URHCJEKOaIPKw31lN5Pmh-8hQHItJvMfnuxMz4tycnjM823uqVDuECqxA1QAZWg0vZrT98RUeuCyjz-v3v7EoZp6M_fYVz63XXnJRmpLq77xyGlz0GBggjckwiAsy6qP9fsomlcGdjHjnMB72lYNrDfpULTftTfMxvq_wdhv-3olwiT8WSj9dTiyqEbKLc1pVtG8j6BQWYdYyhNNw=s400-no)
+![장고걸스](https://drive.google.com/uc?id=0B_ES6MU5AwlXWDRoVkZTWXZKT0k)
 <br>  
   
   
@@ -49,7 +49,7 @@ tags:       [Djangogirls, Daegu, Coach, Community]
 
 
 <br><br>
-![대구 콘텐츠코리아랩 10층 세미나실](https://lh3.googleusercontent.com/w93t4ObFEwJP3Vz4L-1LEGm217A2ZS-fNFhqpf24a_z9SbilGGtnSw__xVnA5ZpiV67Qm-H1Hur0R-_3nEapo_GlbieUwo0fE6NGKZS2dqhfRcjn2c_fI_mpAGnPLbv5XdAKzefPWWmkQB6Sv_HSiDDggzy7EEmui5b7__0-bQ0G9alWS24iD8qlifdqNhoL03CtwdrHCc4t30dANH8UHiEhnJzAWNIocDVyuNn1xsu8McwOVx3KUjP6hxJHEtP5oDu-W4Ablz5SpOe4jBCa5oyjKHz9-hFAfVLflVmtXJsrbFI04mehb5XCqOtUOXMpQ78CO-wWtI19YwSQbbwc17A5RwH0_5CkBk_lLLgO4QI6rqJQujl7I5tuuoRbGPWoXHy-tZTqB53_ZT3oijKqVQ4gULl1lndgO3l9ad9NBttE17oW_sCfT4sROSVai7dyGjCEGDg-GaOxQsbpOFJoa2XUDFtgCJ7R9ZrY9c11LUaaPo7lVQ0VVBJ0QL2bNWaoCipHKXLLGgHqQ3mlwTtkVmL6uuEYq0xzTDcIezmBhCOdZF1b0pGWzhVcn4nYVLQMnbNXN3GxbBHkWFvJb_96F68AELkcgSI59w=s400-no)
+![대구 콘텐츠코리아랩 10층 세미나실](https://drive.google.com/uc?id=0B_ES6MU5AwlXajRDNEMwSGhHQ1E)
 <br>
 
 
@@ -64,7 +64,7 @@ tags:       [Djangogirls, Daegu, Coach, Community]
 
 
 <br>
-![sponsor 가 되어주세요](https://lh3.googleusercontent.com/c4pwQgJPXZZ9dlcxIRgA9A2X4-p0-wNcH4d8OR9EhK8PPtMZ4R0J9dSnHMFXP2Vhzh4bEikYEbNdUkyu-ZGNMB-EIiopMPvBxoVdDFVtHFtl82Q-qwg2rpjcv0yfrVXCR9dRJVhnPPv961GNfbfRr0BIcZaDuqMPt1ze2RO7lZymEHD8Ok--mRhH7gBtnhTHVhLwnPDw28sxFAxV98VsYfn8-2TdYobpyh_vsCI16Xxk9zsIsJ6h0kIKkzKAkKWKKNJtKabsx7qzDElr4SkPDjwEUv5BmA0pSnOknnHp4jUtLAKa6MUSUA2ctM0vFuf_faBzBTsPFuSu51tQc1kMe8WgZ0SoBB8uCYt7qkQfCTNukgp2IY-REvdBDCUuuRESOo7vj9EZhvO38gyIbYaYmrSt1V355Y9NX3F4TQ6Lcz6PES-KzhhUTXqLe1o8tUdE3zkypseXqkNyu7xq2v_clX3R2kg7aLv296EyRTA24vs145mXB6_KPpOSdXSHc45RBc5ru7nZO48bFD1fuplRHXVkk7zzNgX4UzcjWF8OKIZuPUyXPIAY4lX9EWgla_BgwB48lRqc3EUM2_QblBwQ6BN2OPnc2_4A6Q=s200-no)
+![sponsor 가 되어주세요](https://drive.google.com/uc?id=0B_ES6MU5AwlXd3NHTnZfNUx2T2s)
 <br>
 
 
@@ -78,7 +78,7 @@ tags:       [Djangogirls, Daegu, Coach, Community]
 
 
 <br>
-![ice cream](https://lh3.googleusercontent.com/7t4lZAhQgWTNyd53IWUSWKeZ-N-iyRf61j04W8cZQZBKxYkZThkMkDWwLHAASnP8GhA6sIghIv870FukJoWpg_qzW0t_PmesTckSxckiyNFiSxaTbRy8XHh00DaIFZPgHBM2TgPVokeYoDXY5dBvmdP7E3oMVWI_akXVbbjoWu0OIlhFOAT810KCHsGZUxiyL9Zn42yb-v50KnyHQLbGjyI7qLZT_jdpnLiFBQGiRMh8GKZC50vgXb5VQ79TsGhrAIjtZvnRGkb9sIAYH8CIint7Apt4eemDDym9kYA8NA-YtxCp9m9Fmnd37QDIEEimrurfFCsZJtDXp-0FzjleYwgXhyKwL86mSelv3iaEwPGylhmc6ntWEcSksXMO1uTBjz-R6Gr1i1n4K0efivyn_9l5We7aAm2q49JOKsEt3MSzxC7ShgpXxIsIv9Hvb9B0gNaXmiuBYvZIokMQgFDsLkODeSLtkCzlovKNi8W6UUoUeR8KYY9LfU8VR-FzH6qTuAzEcuUssjIigQrm4c65mNiBcugtxP_xodIP_ZYrLccB04BN_9SVEce5pBvrhs5e1r1lAO-Ei_TYge3uh882JswKZAJe1rAV2w=s300-no)
+![ice cream](https://drive.google.com/uc?id=0B_ES6MU5AwlXWEVDSDhaQm1PY3c)
 <p>동대구역 신세계백화점 젤라또 :)  </p>
 <br>
 
