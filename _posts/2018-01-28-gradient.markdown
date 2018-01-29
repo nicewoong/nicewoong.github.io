@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "[Python-OpenCV] - Morph Gradient 윤곽선 추출하기"
+title:      "[Python-OpenCV] - Morph Gradient 이미지 윤곽선 추출하기"
 subtitle:   "[Python-OpenCV] - Morph Gradient" 
 date:       2018-01-28 12:00:00
 categories: [development]
@@ -9,6 +9,6 @@ tags:       [Python, OpenCV, 인턴, 이미지처리]
 ---
 
 ### hello test!  
-
+![image test]({{ site.url }}/assets/milk_pack.jpg)
 <br>
 <br>
