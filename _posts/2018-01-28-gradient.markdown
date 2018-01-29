@@ -9,6 +9,6 @@ tags:       [Python, OpenCV, 인턴, 이미지처리]
 ---
 
 ### hello test!  
-![image test]({{ site.url }}/assets/milk_pack.jpg)
+![image test]({{ site.url }}/assets/milk_pack.jpg=300x)
 <br>
 <br>
