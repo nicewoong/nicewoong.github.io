@@ -105,20 +105,29 @@ def erosion_dilation():
 - 위 코드의 수행결과는 아래와 같다. 원본 -> Erosion 결과 -> Dilation 결과 순서이다. 
 
 
-<img src="{{ site.url }}/assets/erosion_dilation_result.png" style="width: 600px;"/>
+<img src="{{ site.url }}/assets/erosion_dilation_result.png" alt="erosion dilation result" style="width: 600px;"/>
+<img src="{{ site.url}}/assets/erosion-and-dilation.png" alt="erosion and dilation" style="width:500" />
+
 
 - Erosion 은 한 뭉치(?)가 더 가늘어지고, Dilation 은 한 뭉치가 좀더 굵어진다.
-
-
 
 
 
 <br>
 ## 커널 매트릭스 (Kernel Matrix) 생성
 
-- 위 예제에서 Numpy 를 이용하여 kernel matrix 를 생성했다. 
+<img src="{{ site.url }}/assets/erosion-dilation-kernel.png" alt="erosion-dilation-kernel" style="width:400" />
 
-- ```M1 = cv2.getStructuringElement(cv2.MORPH_RECT, (5, 5))``` 메서드를 활용해서 더 손쉽게 Kernel Matrix 를 생성가능 
+- image 는 사실 matrix data 입니다.
+
+- kernel 이라는 작은 matrix 가 image data 전체를 훑으면서 효과를 적용합니다.
+
+- kernel 사이즈를 조절하면서 이미지에 적용되는 효과를 조절할 수 있습니다.
+
+- 위 예제에서 Numpy 를 이용하여 kernel matrix 를 생성했죠. 그런데 다른 방법이 있습니다. 
+
+- ```M1 = cv2.getStructuringElement(cv2.MORPH_RECT, (5, 5))``` 메서드를 활용해서 더 손쉽게 Kernel Matrix 를 생성가능합니다. 
+
 
 ```
 // make kernel matrix for dilation and erosion (Use Numpy)
