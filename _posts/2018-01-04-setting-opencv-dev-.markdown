@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "[Python-OpenCV] 개발환경 세팅"
-subtitle:   "[Python-OpenCV] Seting the development envirenment." 
+subtitle:   "[Python-OpenCV] Setting the development envirenment." 
 date:       2018-01-04 12:00:00
 categories: [development]
 author:     "nicewoong"
@@ -59,7 +59,7 @@ tags:       [Python, OpenCV, 인턴, 이미지처리]
 
 
 <p>
-<img src="{{ site.url }}/assets/python_win_installer.png" style="width: 400px;"/>
+<img src="{{ site.url }}/assets/python_win_installer.png" style="width: 550px;"/>
 </p>
 - 이렇게 all user 가 사용할 수 있도록 재설치를 하고 cmd 를 켜서 python --version 명령어로 확인을 하니 Python3 버전이 출력되었다. 윈도우에서는 바로 python3 가 아니라 python 명령에 3 버전이 등록되어 버리네. 
 
