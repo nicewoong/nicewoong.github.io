@@ -65,7 +65,7 @@ tags:       [Python, OpenCV, 인턴, 이미지처리]
 
 
 <p>
-<img src="{{ site.url }}/assets/milk_pack.jpg" alt="Drawing" style="width: 400px;"/>
+<img src="{{ site.url }}/assets/python_win_installer.jpg" style="width: 400px;"/>
 </p>
 
 
