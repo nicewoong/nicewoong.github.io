@@ -14,7 +14,7 @@ tags:       [Python, OpenCV, 인턴, 이미지처리]
 
 <br>
 ### OpenCV 란?
-<br>
+
 - Computer Vision library 의 약자로 이미지 검수를 기계적으로 처리하도록 도와주는 이미지 처리 라이브러리 
 
 - Image Processing : Circle Detection, 이미지 선명하게 만들기, 필터를 이용해서 edge detection 등에 응용
@@ -36,7 +36,7 @@ tags:       [Python, OpenCV, 인턴, 이미지처리]
 
 <br>
 ### OpenCV-Python
-<br>
+
 - OpenCV의 Python API 
 
 - 파이썬은 스크립트 언어이기 때문에 C, C++ 과 같은 컴파일 언어에 비해 속도가 느림 
@@ -46,7 +46,7 @@ tags:       [Python, OpenCV, 인턴, 이미지처리]
 
 <br>
 ### Python3 설치 및 Pycharm 개발 환경 구성
-<br>
+
 - 참고하는 블로그 포스트가  Python3.x 와  OpenCV 3.2.x + contrib 버전을 적용하고 있다. 그래서 Python3 를 현재 윈도우 노트북에 설치한다. 
 
 - 그런데 Python3 를 설치하고 환경변수가 제대로 설정되었는지 까지 몇 번을 확인했지만 cmd 에서 python3 를 사용할 수가 없었다. 
@@ -83,7 +83,7 @@ pip 9.0.1 from c:\program files\python36\lib\site-packages (python 3.6)
 
 <br>
 ### 필요 라이브러리 설치하기
-<br>
+
 - Pycharm 하단의 Terminal 창에서 pip 명령어를 통해 필요한 라이브러리르 설치한다.
 
 - 아 근데 터미널에서 바로 pip install 명령어를 이용해서 설치하면 되는데, 왜 다른 글에서는 파이썬 스크립트 폴더에 패키지를 먼저 다운받으라고 하는 걸까?
@@ -118,7 +118,7 @@ Successfully installed OpenCV-Python-3.4.0.12
 
 <br>
 ### 이미지 열기
-<br>
+
 
 ```
 def showImage():
@@ -139,7 +139,7 @@ def showImage():
 
 <br>
 ### 참고
-<br>
+
 * [OpenCV-Python 블로그 정리](http://blog.naver.com/PostView.nhn?blogId=samsjang&logNo=220498694383&parentCategoryNo=&categoryNo=66&viewDate=&isShowPopularPosts=false&from=postView)
 * [공식홈페이지(OpneCV : Computer vision library)](https://opencv.org/)
 
