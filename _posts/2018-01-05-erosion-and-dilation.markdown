@@ -105,7 +105,7 @@ def erosion_dilation():
 - 위 코드의 수행결과는 아래와 같다. 원본 -> Erosion 결과 -> Dilation 결과 순서이다. 
 
 
-<img src="{{ site.url}}/assets/erosion-and-dilation.png" alt="erosion and dilation" style="width:500" />
+<img src="{{ site.url}}/assets/erosion-and-dilation.png" alt="erosion and dilation" style="width:500px" />
 
 
 - Erosion 은 한 뭉치(?)가 더 가늘어지고, Dilation 은 한 뭉치가 좀더 굵어진다.
@@ -115,7 +115,7 @@ def erosion_dilation():
 <br>
 ## 커널 매트릭스 (Kernel Matrix) 생성
 
-<img src="{{ site.url }}/assets/erosion-dilation-kernel.png" alt="erosion-dilation-kernel" style="width:350" />
+<img src="{{ site.url }}/assets/erosion-dilation-kernel.png" alt="erosion-dilation-kernel" style="width:400px" />
 
 - image 는 사실 matrix data 입니다.
 

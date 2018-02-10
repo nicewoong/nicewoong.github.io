@@ -12,6 +12,8 @@ tags:       [thougt, topic, IT]
 
 ## IT 기술의 발전과 동반할 성인 콘텐츠
 
+<img src="{{ site.url }}/assets/deepfakes.png" alt="deepfakes" style="width:400px" />
+
 <br>
 ### 성인물 콘텐츠 시장이 급격하게 성장할 거 같다. 
 
