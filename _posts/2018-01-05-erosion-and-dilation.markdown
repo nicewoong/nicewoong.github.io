@@ -102,10 +102,10 @@ def erosion_dilation():
 
 ```
 
-- 위 코드의 수행결과는 아래와 같다. 원본 -> Opening 결과 -> Closing 결과 순서이다. 
+- 위 코드의 수행결과는 아래와 같다. 원본 -> Erosion 결과 -> Dilation 결과 순서이다. 
 
 
-<img src="{{ site.url }}/assets/erosion_dilation_result.png" style="width: 550px;"/>
+<img src="{{ site.url }}/assets/erosion_dilation_result.png" style="width: 600px;"/>
 
 - Erosion 은 한 뭉치(?)가 더 가늘어지고, Dilation 은 한 뭉치가 좀더 굵어진다.
 
@@ -118,7 +118,7 @@ def erosion_dilation():
 
 - 위 예제에서 Numpy 를 이용하여 kernel matrix 를 생성했다. 
 
-- M1 = cv2.getStructuringElement(cv2.MORPH_RECT, (5, 5)) 메서드를 활용해서 더 손쉽게 Kernel Matrix 를 생성가능 
+- ```M1 = cv2.getStructuringElement(cv2.MORPH_RECT, (5, 5))``` 메서드를 활용해서 더 손쉽게 Kernel Matrix 를 생성가능 
 
 ```
 // make kernel matrix for dilation and erosion (Use Numpy)
