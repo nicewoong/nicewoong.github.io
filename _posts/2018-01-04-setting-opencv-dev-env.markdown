@@ -24,7 +24,6 @@ tags:       [Python, OpenCV, 인턴, 이미지처리]
 - 윈도우즈, 리눅스 안드로이드, 맥 os 다양한 운영체제를 지원
 
 
-----
 
 
 #### [OpenCV-Python]
@@ -32,7 +31,7 @@ tags:       [Python, OpenCV, 인턴, 이미지처리]
 - 파이썬은 스크립트 언어이기 때문에 C, C++ 과 같은 컴파일 언어에 비해 속도가 느림 
 - 성능적인 이슈가 있는 부분은 C/C++로 구현한 후 이를 파이썬 Wrapper 를 만들면 해결 가능
 
----
+
 
 #### Python3 설치 및 Pycharm 개발 환경 구성
 - 참고하는 블로그 포스트가  Python3.x 와  OpenCV 3.2.x + contrib 버전을 적용하고 있다. 그래서 Python3 를 현재 윈도우 노트북에 설치한다. 
@@ -44,7 +43,9 @@ tags:       [Python, OpenCV, 인턴, 이미지처리]
 - 설치 첫화면 하단 Add Python 3.xx to PATH 역시 체크했다. 환경변수 PATH에 python3를 등록하는 것이다. 그러면 어느 위치에 있든 상관 없이 python3를 사용할 수 있는 것 
 
 
-<img src="{{ site.url }}/assets/python_win_installer.png" alt="Drawing" style="width: 500px;"/>
+<img src="{{ site.url }}/assets/python_win_installer.png" alt="Drawing" style="width: 400px;"/>
+
+
 
 - 이렇게 all user 가 사용할 수 있도록 재설치를 하고 cmd 를 켜서 python --version 명령어로 확인을 하니 Python3 버전이 출력되었다. 윈도우에서는 바로 python3 가 아니라 python 명령에 3 버전이 등록되어 버리네. 
 
@@ -87,13 +88,22 @@ Successfully installed OpenCV-Python-3.4.0.12
 - OpenCV가 잘 설치되었는지 확인을 위해서 python console 에서 import cv2 를 수행해본다. 에러메시지가 출력되지 않는다면 성공!
 
 - python code 상단에는 항상 encoding 설정을 추가하자. 
+
+ 
+
 ```
 # -*- coding: utf-8 -*-
 ```
 
 
 
+
+---
+
+
 #### [이미지 열기]
+
+
 
 ```
 def showImage():
