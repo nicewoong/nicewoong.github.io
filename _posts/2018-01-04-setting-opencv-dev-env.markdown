@@ -12,7 +12,10 @@ tags:       [Python, OpenCV, 인턴, 이미지처리]
 
 2018-01-04(목)
 
-### [OpenCV 란? ] 
+
+### OpenCV 란?
+
+
 - Computer Vision library 의 약자로 이미지 검수를 기계적으로 처리하도록 도와주는 이미지 처리 라이브러리 
 - Image Processing : Circle Detection, 이미지 선명하게 만들기, 필터를 이용해서 edge detection 등에 응용
 - Robot/ Machine / Video / Vision : 얼굴인식, 무인자동차가 장애물 인식, 사람 객체 인식, 이미지 매칭 등에 응용
@@ -26,14 +29,18 @@ tags:       [Python, OpenCV, 인턴, 이미지처리]
 
 
 
-#### [OpenCV-Python]
+### OpenCV-Python
+
+
 - OpenCV의 Python API 
 - 파이썬은 스크립트 언어이기 때문에 C, C++ 과 같은 컴파일 언어에 비해 속도가 느림 
 - 성능적인 이슈가 있는 부분은 C/C++로 구현한 후 이를 파이썬 Wrapper 를 만들면 해결 가능
 
 
 
-#### Python3 설치 및 Pycharm 개발 환경 구성
+### Python3 설치 및 Pycharm 개발 환경 구성
+
+
 - 참고하는 블로그 포스트가  Python3.x 와  OpenCV 3.2.x + contrib 버전을 적용하고 있다. 그래서 Python3 를 현재 윈도우 노트북에 설치한다. 
 - 그런데 Python3 를 설치하고 환경변수가 제대로 설정되었는지 까지 몇 번을 확인했지만 cmd 에서 python3 를 사용할 수가 없었다. 
 - python3 를 현재 윈도우 os 에 접속한 local user 하위 폴더에 설치(default 설정)했었다. local user 의 환경변수와 시스템 환경 변수 설정을 확인하고도 여전히 python3를 cmd 에서 사용할 수 없었다. 
@@ -43,8 +50,9 @@ tags:       [Python, OpenCV, 인턴, 이미지처리]
 - 설치 첫화면 하단 Add Python 3.xx to PATH 역시 체크했다. 환경변수 PATH에 python3를 등록하는 것이다. 그러면 어느 위치에 있든 상관 없이 python3를 사용할 수 있는 것 
 
 
-<img src="{{ site.url }}/assets/python_win_installer.png" alt="Drawing" style="width: 400px;"/>
-
+<p>
+<img src="{{ site.url }}/assets/milk_pack.jpg" alt="Drawing" style="width: 400px;"/>
+</p>
 
 
 - 이렇게 all user 가 사용할 수 있도록 재설치를 하고 cmd 를 켜서 python --version 명령어로 확인을 하니 Python3 버전이 출력되었다. 윈도우에서는 바로 python3 가 아니라 python 명령에 3 버전이 등록되어 버리네. 
@@ -65,10 +73,13 @@ pip 9.0.1 from c:\program files\python36\lib\site-packages (python 3.6)
 - 자 이제 본격적으로 튜토리얼을 따라해보자!
 
 
-#### 필요 라이브러리 설치하기
+### 필요 라이브러리 설치하기
+
+
 - Pycharm 하단의 Terminal 창에서 pip 명령어를 통해 필요한 라이브러리르 설치한다.
 - 아 근데 터미널에서 바로 pip install 명령어를 이용해서 설치하면 되는데, 왜 다른 글에서는 파이썬 스크립트 폴더에 패키지를 먼저 다운받으라고 하는 걸까?
-- 
+
+
 
 ```
 >pip install matplotlib
@@ -97,11 +108,10 @@ Successfully installed OpenCV-Python-3.4.0.12
 
 
 
+<br>
 
----
 
-
-#### [이미지 열기]
+### 이미지 열기
 
 
 
@@ -122,4 +132,9 @@ def showImage():
 ```
 
 
+
+### 참고
+
+* [OpenCV-Python 블로그 정리](http://blog.naver.com/PostView.nhn?blogId=samsjang&logNo=220498694383&parentCategoryNo=&categoryNo=66&viewDate=&isShowPopularPosts=false&from=postView)
+* [공식홈페이지(OpneCV : Computer vision library)](https://opencv.org/)
 
