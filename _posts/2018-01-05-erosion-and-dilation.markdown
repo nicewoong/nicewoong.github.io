@@ -6,6 +6,7 @@ date:       2018-01-05 12:00:00
 categories: [development]
 author:     "nicewoong"
 tags:       [Python, OpenCV, 인턴, 이미지처리]
+comments: true
 ---
 
 

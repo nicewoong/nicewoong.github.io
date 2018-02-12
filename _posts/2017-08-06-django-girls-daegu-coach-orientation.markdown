@@ -6,6 +6,7 @@ date:       2017-08-06 12:00:00
 categories: [thoughts, experience]
 author:     "nicewoong"
 tags:       [Djangogirls, Daegu, Coach, Community]
+comments: true
 ---
 
 ### Django Girls Daegu (장고걸스 대구)에 Cauch로 합류하다.  

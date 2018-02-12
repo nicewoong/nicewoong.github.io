@@ -6,6 +6,7 @@ date:       2017-10-09 02:00:00
 categories: [development]
 author:     "nicewoong"
 tags:       [DevOps, development, docker, virtual environment, menual]
+comments: true
 ---
 
 
