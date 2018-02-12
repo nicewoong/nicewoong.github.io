@@ -15,6 +15,10 @@ email_username:  thoughtscode@gmail.com
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 google_tracking_id: UA-113861447-1
 
+
+# Comment
+disqus_shortname: nicewoong
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
