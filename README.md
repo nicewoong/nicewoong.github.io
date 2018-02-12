@@ -1,5 +1,7 @@
 # nicewoong blog
 
+
+
 ## Jekyll and Github pages
 
 This project is my personal blog created using Jekyll and Github. 
@@ -7,6 +9,9 @@ I am going to personalize this blog gradually.
 Here I am writing posts about sw development and personal experiences and thoughts.
 
 ## Visit my blog! 
+
+<img src="https://raw.githubusercontent.com/nicewoong/nicewoong.github.io/master/assets/screenshot_nicewoong_dev_blog.png" alt="screenshot_nicewoong_dev_blog" style="width:800px" />
+
 
 It would be really nice if you visit nicewoong blog(this project).  
 
