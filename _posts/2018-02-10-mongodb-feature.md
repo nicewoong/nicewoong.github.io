@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "MongoDB 특징 정리"
-subtitle:   "The features op MongoDB" 
+subtitle:   "The features of MongoDB" 
 date:       2018-02-10 12:00:00
 categories: [development]
 author:     "nicewoong"
