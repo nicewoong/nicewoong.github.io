@@ -128,6 +128,8 @@ comments: true
 
 <br>
 ### GridFS 
+<img src="{{ site.url }}/assets/mongodb_gridfs_structure.png" alt="mongodb_gridfs_structure" style="width:500px" />
+
 * 대용량 파일을 저장하기 위한 Grid File System. 
 * MongoDB 는 document 하나의 크기가 최대 16MB 로 제한된다. 
 * 그 이상의 파일을 저장하기 위해서 Large File을 작은 파트로 분할해서 분리된 Documents 로 저장하는 MongoDB driver 를 제공한다.  
@@ -135,11 +137,12 @@ comments: true
 * 별도 스토리지 엔진을 통해 파일을 저장가능
 * image/video PDFs, PPT slides or Excel spreadsheets  와 같은 컨텐츠의 저장소로 활용이 가능하다. 
 * GridFS는 16MB(BSON document 사이즈) 넘는 사이즈의 데이터를 저장하고 조회 하는 방법. 
-* 한개의 파일로 저장하는 대신에 부분이나 청크로 나누어 분리된 도큐먼트를 청크로 저장한다. 청크사이즈는 기본 256k로 제한되어 있다. 파일 청크와 메타데이터를 저장하는 두개의 컬렉션을 사용한다
-* [https://avaldes.com/wp-content/uploads/2013/11/mongodb_gridfs_structure.png?2d262d 이미지]
-* [https://avaldes.com/upload-and-download-multiple-binary-files-using-mongodb/ 좋은 설명(영어)]
-* [https://docs.mongodb.com/manual/core/gridfs/ mongodb gridfs (official doc)]
-* ([http://mobicon.tistory.com/228 MongoDB GridFS 개념잡기] )
+* 한개의 파일로 저장하는 대신에 부분이나 청크로 나누어 분리된 도큐먼트를 청크로 저장한다. 청크사이즈는 기본 256k로 제한되어 있다.
+파일 청크와 메타데이터를 저장하는 두개의 컬렉션을 사용한다
+
+* (참고) - [좋은 설명(영어)](https://avaldes.com/upload-and-download-multiple-binary-files-using-mongodb/)
+* (참고) - [ mongodb gridfs (official doc)](https://docs.mongodb.com/manual/core/gridfs/)
+* (참고) - [MongoDB GridFS 개념잡기](http://mobicon.tistory.com/228)  
 
 
 <br>
