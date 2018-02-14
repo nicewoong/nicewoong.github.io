@@ -9,7 +9,7 @@ tags:       [Djangogirls, Daegu, Coach, Community]
 comments: true
 ---
 
-### Django Girls Daegu (장고걸스 대구)에 Cauch로 합류하다.  
+### Django Girls Daegu (장고걸스 대구)에 Coach로 합류하다.  
 
 <br>
 <br>
