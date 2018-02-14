@@ -3,7 +3,7 @@ layout:     post
 title:      "IT 기술의 발전과 동반할 성인 콘텐츠"
 subtitle:   "Adult content accompanying the development of IT" 
 date:       2018-02-09 12:00:00
-categories: [development]
+categories: [thougt]
 author:     "nicewoong"
 tags:       [thougt, topic, IT]
 comments: true
