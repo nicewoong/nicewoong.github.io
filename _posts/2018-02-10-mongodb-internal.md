@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "MongoDB 구조 "
+title:      "MongoDB(몽고디비) 구조 "
 subtitle:   "MongoDB internal" 
 date:       2018-02-10 12:00:00
 categories: [development]

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "MongoDB 튜토리얼 따라해보기 "
+title:      "MongoDB(몽고디비) 튜토리얼 따라해보기 "
 subtitle:   "MongoDB Tutorial" 
 date:       2018-02-10 12:00:00
 categories: [development]
