@@ -14,13 +14,25 @@ comments: true
 ## MongoDB 기본 특징
 몽고디비(MongoDB)가 가지는 기본적인 특징에 대해서 알아봅시다...
 
+<br>
+### 데이터 모델 
 
+* DB -Database는 Collection들의 물리적인 컨테이너. 각 Database는 파일시스템에 여러파일들로 저장됩니다.
+* Collection (Table)  - MongoDB Document의 그룹
+* Document (Record) 
+* Key : Value (Field)
+
+#### (참고)
+* Mongodb : db > collection > document > key:value
+* Cassandra : Key-space > Table > Row > Column name : Column value
+* RDBMS : DB > Table > row > column
+* elasticsearch : index > type> document > key : value
 
 <br>
 ### C++기반 
 
 <br>
-### Schemaless 
+### Schemaless (Schema-free)
 * 스키마란?
   * 데이터베이스를 구성하는 개체(Entity), 속성(Attribute), 관계(Relationship) 및
 데이터 조작 시에 데이터 값들이 갖는 제약조건 등에 관해 전반적으로 정의하는 것이다. 
