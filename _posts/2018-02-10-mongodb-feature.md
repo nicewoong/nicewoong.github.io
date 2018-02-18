@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "MongoDB 특징 정리"
+title:      "MongoDB(몽고디비) 특징 정리"
 subtitle:   "The features of MongoDB" 
 date:       2018-02-10 12:00:00
 categories: [development]
@@ -32,7 +32,7 @@ comments: true
 ### C++기반 
 
 <br>
-### Schemaless (Schema-free)
+### Schemaless (Schema-fre)
 * 스키마란?
   * 데이터베이스를 구성하는 개체(Entity), 속성(Attribute), 관계(Relationship) 및
 데이터 조작 시에 데이터 값들이 갖는 제약조건 등에 관해 전반적으로 정의하는 것이다. 
