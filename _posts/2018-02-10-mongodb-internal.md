@@ -104,11 +104,61 @@ BSON 객체의 크기는 Size 필드에서 헤더 크기인 16을 빼면 된다.
 * MongoDB는 로컬 스토리지에 데이터베이스 명으로 확장자가 숫자로 증분하는 형태의 파일을 가진다. 
   * 예를 들어 test.1이라고 하면, test라는 데이터베이스의 첫번째 익스텐트를 의미한다.
 
+
+
 <br>
+<br>
+
+
 ## (2) WierdTiger 스토리지엔진 구조 
-* ...공부예정... 
+___
 
 
+<img src="{{ site.url }}/assets/wiredtiger_internal.jpg" alt="wiredtiger_internal" />
+
+
+* MMAPv1 비교했을 때 대표적인 특징 중에 하나는 데이터 압축(Compression) 기능과 데이터 암호화(Encryption) 기능
+* MMAPv1 에 비해서 WiredTiger 는 more general purpose 이다.
+* MVCC (Multi-Version-Concurrency-Control) -  document-level 에서 병렬성을 제공한다.
+* ```B+ tree``` 구조와 ```LSM``` 구조를 모두 지원한다. 하지만 mongodb 는 B+ Tree 만 지원한다.
+  * 이는 read workloads 에 최적화 되어 있다.  
+* CheckSums 기능을 통해 시스템 장애 또는 저장 장치 장애로부터 발생하는 
+데이터 유실을 최소화할 수 있다. (File System Corrupt 상태 분석)
+* Highly concurrent and vertically scalable
+* Document level locking
+* Allows for more tuning of storage engine than MMAP
+* Compression
+* On-line compaction
+* Write-ahead transaction log for the journal
+* 주의! 
+  * WiredTiger does **not** support in place updates
+  * Journaling 기능을 제공하지 않는다.
+
+
+
+<br>
+
+#### Scalability
+
+* 멀티코어 시스템에서 효율이 좋다. 
+* MMAPv1 는 CPU를 추가해도 성능이 향상되지 않는다. 
+ 
+
+#### Concurrency
+
+* Document level 에서 locking 을 수행한다. 
+* 그래서 동시성이 훨씬 좋다. 
+* MMAPv1는 Collection level 에서 locking 을 수행했다. 
+
+
+#### Compression
+
+* `gzip` 과 `snappy` 방식의 Compression 을 제공한다.
+  * `Snappy` : 기본 압축 기능이며 압축율이 좋고 오버헤드가 적게 발생한다.
+  * `gzip` : Snappy 압축 방법에 비해 매우 높은 압축율을 제공되지만 CPU 오버헤드가 발생한다. 
+* Collection 의 사이즈가 더 작다. 저장공간을 효율적으로 사용가능.
+* Index에 대해서도 압축(Compression) 기능을 제공
+  * 디스크에서도, 메모리에서도 공간 효율 좋아짐. 
 
 
 <br><br>
@@ -119,3 +169,7 @@ BSON 객체의 크기는 Size 필드에서 헤더 크기인 16을 빼면 된다.
 * [A Technical Introduction to WiredTiger(Slide Sahre)](https://www.slideshare.net/wiredtiger/mongo-db-worldwiredtiger?next_slideshow=1)
 * [Inside MongoDB: the Internals of an Open-Source Database(Slide Share )](https://www.slideshare.net/mdirolf/inside-mongodb-the-internals-of-an-opensource-database )
 * [Practical MongoDB(book)](https://books.google.co.kr/books?id=7iI3CwAAQBAJ&pg=PA166&lpg=PA166&dq=mongodb+b+tree&source=bl&ots=cLtkVTWESk&sig=AqOe913XuVKGOf30YzqpF2QNIBQ&hl=ko&sa=X&ved=0ahUKEwj2vran6rzXAhUMy7wKHVS_AFk4ChDoAQg9MAM#v=onepage&q=mongodb%20b%20tree&f=false)
+
+* [WiredTiger 와 MMAPv1 비교](https://www.vividcortex.com/blog/why-wiredtiger-is-the-default-mongodb-storage-engine)
+* [wiredtiger ](http://learnmongodbthehardway.com/schema/wiredtiger/)
+* [MongoDB의 새로운 WiredTiger StorageEngine](http://www.dbguide.net/knowledge.db?cmd=specialist_view&boardUid=189579&boardConfigUid=91&boardStep=0&categoryUid=)

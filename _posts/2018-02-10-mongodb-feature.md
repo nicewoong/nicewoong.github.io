@@ -31,6 +31,8 @@ comments: true
 <br>
 ### C++기반 
 
+
+
 <br>
 ### Schemaless (Schema-fre)
 * 스키마란?
@@ -43,6 +45,8 @@ comments: true
 * It actually mean dynamically typed schema.
 * Unstructured data 를 쉽게 저장할 수 있음 
  
+
+
 
 <br>
 ### Document Oriented (Uses BSON format)
@@ -184,6 +188,10 @@ comments: true
 
 <br>
 ### MongoDB Replica Set (Provides high availability)
+
+<img src="{{site.url}}/assets/mongo_shard_structure.jpg" alt="mongo_shard_structure" />
+
+
 * Master-Slave Repliaction
 * 마스터는 읽기+쓰기, 슬레이브는 read 
 * Automatic Fail-over
@@ -200,4 +208,5 @@ comments: true
 * [조영규블로그- MongoDB(몽고 디비) 특징 공부하기 / 몽고 DB란 무엇인가 ](http://dev.youngkyu.kr/22)
 * [WHAT ARE THE KEY FEATURES OF MONGODB?](https://www.tutorialsjar.com/key-features-of-mongodb/)
 * [What are the features of mongodb?(Quora)](https://www.quora.com/What-are-the-features-of-mongodb) 
-
+* [WiredTiger Internal ](https://www.slideshare.net/NorbertoLeite/mongodb-wiredtiger-internals)
+* [cassandra-vs-mongodb](https://blog.panoply.io/cassandra-vs-mongodb)
