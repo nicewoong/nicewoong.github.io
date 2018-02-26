@@ -12,7 +12,7 @@ comments: true
 
 
 <br>
-### 참고 링크
+## 참고 링크
 * [공식 설명 문서(v2.8) - DataStax C/C++ Driver for Apache Cassandra](https://docs.datastax.com/en/developer/cpp-driver/2.8/topics/)
 * [cpp-drivere 우분투 v2.8 다운로드 서버](http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.8.1/)
 * [cpp-driver 우분투 디펜던시 다운로드 서버(최신거)](http://downloads.datastax.com/cpp-driver/ubuntu/16.04/dependencies/)  
@@ -25,7 +25,7 @@ comments: true
 
 
 
-<br>
+<br><br>
 ### `.deb` 파일이란?
 
 * `.deb`은 데비안의 소프트웨어 패키지 포맷의 확장자
@@ -51,8 +51,10 @@ comments: true
 
 
 
-<br>
-### .deb 파일 모두 다운받기. 
+<br><br>
+
+
+## .deb 파일 모두 다운받기. 
 * `wget` 명령어를 이용해서 다운로드 서버에서 단운로드 한다. 
   * url 은 위 다운로드 서버에서 해당 파일을 오른쪽 클릭해서 링크를 얻어왔다.     
 
@@ -72,9 +74,9 @@ comments: true
         -rw-r--r-- 1 root root   80032 Feb 15 02:48 libuv-dev_1.18.0-1_amd64.deb
 
 
-<br>
+<br><br>
 
-### 다운로드 받은 .deb 파일 설치하기
+## 다운로드 받은 .deb 파일 설치하기
 * `dpkg`를 통해 설치를 시도했는데 아래와 같은 오류가 발생
 
         # dpkg -i cassandra-cpp-driver_2.8.1-1_amd64.deb 
@@ -99,8 +101,9 @@ comments: true
         
 
 
+<br><br>
 
-### 테스트 코드 작성해보기. 
+## 테스트 코드 작성해보기. 
 * `test.c `를 만들어서 `#include <cassandra.h>` 를 포함시켜서 컴파일 해봤다. 
 
                 # gcc test.c -o test 
