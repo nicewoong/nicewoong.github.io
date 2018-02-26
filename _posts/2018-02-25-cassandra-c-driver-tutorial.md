@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "[시행착오 기록] Cassandra(카산드라) C 드라이버 설치 "
-subtitle:   "[Record of Trial&Error] Cassandra C Driver install" 
+title:      "Cassandra(카산드라) C 드라이버 설치 튜토리얼"
+subtitle:   "Cassandra C Driver install" 
 date:       2018-02-24 12:00:00
 categories: [development]
 author:     "nicewoong"
@@ -10,32 +10,15 @@ comments: true
 ---
 
 
-## 직접 빌드 하는 것 말고, 바이너리 패키지 다운로드 받아보기
-
-
-(2018-02-26)
-
-
-* 위에서는 깃허브에서 클론한 프로젝트를 직접 빌드하는 과정을 거쳤다. 
-* 아무것도 모르고 해서 `make`, `c library` 사용 및 빌드하는 과정이 너무 생소했다. 그래서 멘붕이었다. 
-* gcc 컴파일 옵션, make, c library 에 대해 대략적으로 어제 다시 공부하긴 했다. 
-* 그래서 다시 빌드하면 이제 잘 할 수 있을 거 같다. 
-* 그리고 공부한 덕분에 교수님께서 작성해놓으신 프로젝트 `makefile` 을 건드려야 할 때가 분명 올텐데, 
-  그 때 잘 할 수 있을 것 같다.대강 이해가 된다 이제. 
-
-
-* 그럼 직접 패키지를 다운받아서 c driver 를 사용해보도록 하자. 
-
-
-
-
 
 <br>
 ### 참고 링크
-
 * [공식 설명 문서(v2.8) - DataStax C/C++ Driver for Apache Cassandra](https://docs.datastax.com/en/developer/cpp-driver/2.8/topics/)
 * [cpp-drivere 우분투 v2.8 다운로드 서버](http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.8.1/)
 * [cpp-driver 우분투 디펜던시 다운로드 서버(최신거)](http://downloads.datastax.com/cpp-driver/ubuntu/16.04/dependencies/)  
+
+
+<br>
 
 
 * 위 서버로 접속하면 cpp-driver 도 그렇고, dependancies 도 그렇고 모두 .deb 파일이 올라가 있다. 
