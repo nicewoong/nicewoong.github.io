@@ -11,7 +11,7 @@ comments: true
 
 
 
-직접 깃허브에 정리해놓은 한글 튜토리얼을 참고하십시오.
+직접 깃허브에 정리해놓은 한글 튜토리얼과 샘플코드를 참고하십시오.
 
 * [Cassandra C driver 튜토리얼](https://github.com/nicewoong/cassandra_c_driver)
 
@@ -109,6 +109,9 @@ comments: true
 <br><br>
 
 ## 테스트 코드 작성해보기. 
+
+* 샘플코드는 아래 링크를 참조하십시오.
+  * [샘플코드바로가기](https://github.com/nicewoong/cassandra_c_driver/blob/master/sample_modularized.c)
 * `test.c `를 만들어서 `#include <cassandra.h>` 를 포함시켜서 컴파일 해봤다. 
 
                 # gcc test.c -o test 
