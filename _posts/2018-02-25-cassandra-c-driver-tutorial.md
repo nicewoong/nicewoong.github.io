@@ -11,6 +11,11 @@ comments: true
 
 
 
+직접 깃허브에 정리해놓은 한글 튜토리얼을 참고하십시오.
+
+* [Cassandra C driver 튜토리얼](https://github.com/nicewoong/cassandra_c_driver)
+
+
 <br>
 ## 참고 링크
 * [공식 설명 문서(v2.8) - DataStax C/C++ Driver for Apache Cassandra](https://docs.datastax.com/en/developer/cpp-driver/2.8/topics/)
